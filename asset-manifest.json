@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio-in-react/static/css/main.7bfbe10b.css",
+    "main.js": "/portfolio-in-react/static/js/main.fbfce0a7.js",
+    "static/js/453.775850bd.chunk.js": "/portfolio-in-react/static/js/453.775850bd.chunk.js",
+    "static/media/project1.png": "/portfolio-in-react/static/media/project1.bf6c39bd148445c238e3.png",
+    "static/media/project4.jpg": "/portfolio-in-react/static/media/project4.41abbff918637a0b7c69.jpg",
+    "static/media/project3.jpg": "/portfolio-in-react/static/media/project3.830851674489f1fb9abd.jpg",
+    "static/media/project2.jpg": "/portfolio-in-react/static/media/project2.d205a3e56d0ed5def43a.jpg",
+    "static/media/color-sharp.png": "/portfolio-in-react/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/portfolio-in-react/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/ne_logo.png": "/portfolio-in-react/static/media/ne_logo.51f7f7366cae55a099e0.png",
+    "static/media/contact-img.png": "/portfolio-in-react/static/media/contact-img.d6391624d920d7567cca.png",
+    "static/media/banner-bg.png": "/portfolio-in-react/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/portfolio-in-react/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio-in-react/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio-in-react/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio-in-react/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/portfolio-in-react/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/portfolio-in-react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-in-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio-in-react/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/portfolio-in-react/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter4.svg": "/portfolio-in-react/static/media/meter4.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/portfolio-in-react/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/portfolio-in-react/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/portfolio-in-react/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/portfolio-in-react/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/portfolio-in-react/index.html",
+    "static/media/nav-icon1.svg": "/portfolio-in-react/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/portfolio-in-react/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.7bfbe10b.css.map": "/portfolio-in-react/static/css/main.7bfbe10b.css.map",
+    "main.fbfce0a7.js.map": "/portfolio-in-react/static/js/main.fbfce0a7.js.map",
+    "453.775850bd.chunk.js.map": "/portfolio-in-react/static/js/453.775850bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bfbe10b.css",
+    "static/js/main.fbfce0a7.js"
+  ]
+}
