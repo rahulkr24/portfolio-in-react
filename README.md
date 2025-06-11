@@ -1,7 +1,8 @@
 ## Available Scripts
 
 host link: rahulkr24.github.io/portfolio-in-react
-In the project directory, you can run:
+
+###In the project directory, you can run:
 
 ### `npm start`
 
