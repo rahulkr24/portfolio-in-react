@@ -5,7 +5,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [host link]( rahulkr24.github.io/portfolio-in-react) to view it in your browser.
+Open [rahulkr24.github.io/portfolio-in-react]( rahulkr24.github.io/portfolio-in-react) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
